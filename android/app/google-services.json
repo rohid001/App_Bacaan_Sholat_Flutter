@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620764225366",
+    "project_id": "appfiqh-4c90e",
+    "storage_bucket": "appfiqh-4c90e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620764225366:android:5c836c280a75af056080f7",
+        "android_client_info": {
+          "package_name": "com.example.bacaan_sholat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620764225366-7s2ginleso6lq7kdhg04j7bfhb1enfl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimTF_Mwjxgl5rOGx7hP00WzzurCRU5Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620764225366-7s2ginleso6lq7kdhg04j7bfhb1enfl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
